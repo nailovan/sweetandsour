@@ -1,0 +1,43 @@
+/* Gaya dasar */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Gambar Profil */
+.foto-profil {
+    display: block;
+    width: 150px; /* Atur ukuran foto */
+    height: 150px;
+    border-radius: 50%; /* Bikin foto bulat */
+    margin: 20px auto; /* Tengahin gambar */
+}
+
+/* Main Section */
+main {
+    padding: 20px;
+    background: #fff;
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: #fff;
+}
